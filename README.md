@@ -1,5 +1,5 @@
 # Anitoki Unofficial App
-Aplikasi scraping website [Anitoki](https://anitoki.com/)
+Belajar buat aplikasi scraping website [Anitoki](https://anitoki.com/)
 
 ### Preview
 <img src="preview/screen utama.jpg" width="200">  <img src="preview/screen pencarian.jpg" width="200">
@@ -7,4 +7,4 @@ Aplikasi scraping website [Anitoki](https://anitoki.com/)
 
 
 ### Source Code
-nanti
+soon
